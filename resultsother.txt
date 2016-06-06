@@ -1,0 +1,30 @@
+%WER 7.16 [ 3895 / 54402, 411 ins, 537 del, 2947 sub ] exp/nnet6a_clean_460_gpu/decode_tgmed_dev_clean/wer_12
+%WER 21.89 [ 11155 / 50948, 1016 ins, 1739 del, 8400 sub ] exp/nnet6a_clean_460_gpu/decode_tgmed_dev_other/wer_13
+%WER 8.23 [ 4477 / 54402, 475 ins, 654 del, 3348 sub ] exp/nnet6a_clean_460_gpu/decode_tgsmall_dev_clean/wer_11
+%WER 23.75 [ 12098 / 50948, 983 ins, 2084 del, 9031 sub ] exp/nnet6a_clean_460_gpu/decode_tgsmall_dev_other/wer_13
+
+
+%WER 6.57 [ 3572 / 54402, 402 ins, 475 del, 2695 sub ] exp/nnet7a_960_gpu/decode_tgmed_dev_clean/wer_12
+%WER 16.72 [ 8520 / 50948, 808 ins, 1299 del, 6413 sub ] exp/nnet7a_960_gpu/decode_tgmed_dev_other/wer_13
+%WER 7.54 [ 4104 / 54402, 454 ins, 552 del, 3098 sub ] exp/nnet7a_960_gpu/decode_tgsmall_dev_clean/wer_11
+%WER 18.51 [ 9433 / 50948, 806 ins, 1609 del, 7018 sub ] exp/nnet7a_960_gpu/decode_tgsmall_dev_other/wer_13
+
+
+
+%WER 9.61 [ 5227 / 54402, 591 ins, 684 del, 3952 sub ] exp/tri5b/decode_tgmed_dev_clean/wer_15
+%WER 30.19 [ 15378 / 50943, 1407 ins, 2422 del, 11549 sub ] [PARTIAL] exp/tri5b/decode_tgmed_dev_other/wer_16
+%WER 10.87 [ 5916 / 54402, 585 ins, 863 del, 4468 sub ] exp/tri5b/decode_tgsmall_dev_clean/wer_15
+%WER 14.49 [ 7883 / 54402, 800 ins, 1087 del, 5996 sub ] exp/tri5b/decode_tgsmall_dev_clean.si/wer_12
+%WER 32.21 [ 16408 / 50948, 1311 ins, 2994 del, 12103 sub ] exp/tri5b/decode_tgsmall_dev_other/wer_17
+%WER 44.37 [ 22604 / 50948, 1435 ins, 4945 del, 16224 sub ] exp/tri5b/decode_tgsmall_dev_other.si/wer_15
+
+
+
+%WER 7.52 [ 4091 / 54402, 638 ins, 397 del, 3056 sub ] exp/tri6b/decode_tglarge_dev_clean/wer_13
+%WER 22.14 [ 11279 / 50948, 1342 ins, 1466 del, 8471 sub ] exp/tri6b/decode_tglarge_dev_other/wer_15
+%WER 9.47 [ 5151 / 54402, 656 ins, 613 del, 3882 sub ] exp/tri6b/decode_tgmed_dev_clean/wer_13
+%WER 25.16 [ 12821 / 50948, 1233 ins, 1953 del, 9635 sub ] exp/tri6b/decode_tgmed_dev_other/wer_15
+%WER 10.88 [ 5919 / 54402, 626 ins, 813 del, 4480 sub ] exp/tri6b/decode_tgsmall_dev_clean/wer_14
+%WER 13.57 [ 7381 / 54402, 757 ins, 998 del, 5626 sub ] exp/tri6b/decode_tgsmall_dev_clean.si/wer_12
+%WER 27.23 [ 13872 / 50948, 1109 ins, 2426 del, 10337 sub ] exp/tri6b/decode_tgsmall_dev_other/wer_16
+%WER 36.87 [ 18787 / 50948, 1279 ins, 3575 del, 13933 sub ] exp/tri6b/decode_tgsmall_dev_other.si/wer_14
